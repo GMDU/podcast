@@ -12,7 +12,7 @@
   "explicit": false,
   "cover": "/cover.png",
   "language": "en",
-  "link": "https://podcast.datapack.dev/",
+  "link": "https://podcast.datapack.dev",
   "email": "contact@datapack.dev",
   "description": "A podcast about Minecraft, from the perspective of two technical datapackers. Join us as we explore Minecraft through the lens of datapacking.",
   "category": [
